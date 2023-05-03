@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "5712933cd517a232",
+    "type": "split",
+    "children": [
+      {
+        "id": "9161d1d53b13bb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f2ff9e7427236a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01未归档/VscodeVim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf65c945ca665146",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da9135b70a673386",
+    "type": "split",
+    "children": [
+      {
+        "id": "634eed76e3728fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa213d92f03a107c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af26eb006d29aeac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51f8058d5dc3beb2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0974a95ae6a475ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd752686497e91b7",
+        "type": "tabs",
+        "dimension": 31.72541743970315,
+        "children": [
+          {
+            "id": "aba8ad3af2fd2535",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bfa7129cf8ea4c5c",
+        "type": "tabs",
+        "dimension": 68.27458256029685,
+        "children": [
+          {
+            "id": "17e95eae5b279348",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01未归档/VscodeVim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09199f77cb7e94c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01未归档/VscodeVim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b18202927234bf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3ee41650c733cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01未归档/VscodeVim.md"
+              }
+            }
+          },
+          {
+            "id": "b1e59b2ce94fff3d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c3ee41650c733cd2",
+  "lastOpenFiles": [
+    "01未归档/VscodeVim.md",
+    "01未归档/ObsidianVim.md",
+    "01未归档/im-select插件.md",
+    "01未归档/Dwm程序拆解.md",
+    "01未归档/插件篇.md",
+    "Robot/舵机防水.md",
+    "6b4cd5a3a4365e9dea11464f414b4ef.jpg",
+    "0d486989de8635cda4443b3048b8c92 1.jpg",
+    "f4433f01dfca0dc5f49031f046a5db5.jpg",
+    "Robot/舵机防水.docx",
+    "08考研/02英语/长难句/简单句.md",
+    "Robot/步态编程实现.docx",
+    "02模板/题解模板.md",
+    "02模板/日记模板.md",
+    "02模板/周记模板.md",
+    "Robot/模拟舵机.md",
+    "Robot/多场景应用.md",
+    "09wiki/Git.md",
+    "0d486989de8635cda4443b3048b8c92.jpg",
+    "Robot/步态编程实现.md",
+    "05常用命令/Linux.md",
+    "04工具/vim/vim.md",
+    "Robot/蜘蛛控制程拆解.md",
+    "09wiki/Docker.md",
+    "Robot/蜘蛛官方程序拆解.md",
+    "09wiki/java/基础.md",
+    "06Linux/ubuntu/换源.md",
+    "99publish/acm/QQ专场.md",
+    "09wiki/c++/c++文件操作.md",
+    "08考研/01数学/01高等数学/积分.md",
+    "04工具/vscode/vscode.md",
+    "00日记/Ubuntu/2022-12-30星期五.docx",
+    "d2e665137f8d15aae064c8384cfa028.jpg",
+    "b24af84117e78d6dd3ebfc43b91f725.jpg",
+    "8615149506015b04e938c3cefa198b1.jpg",
+    "516768d1b1694abb6a9b65fab7bd471.jpg",
+    "688f0be67de93aaf3b6fc81918dbee1.jpg",
+    "516768d1b1694abb6a9b65fab7bd471 1.jpg",
+    "07编程语言/Python/Django/从零开始搭建自己Web/个人博客/后端/00后端流程图.canvas",
+    "07编程语言/Python/Django/从零开始搭建自己Web/个人博客/后端",
+    "07编程语言/Python/Django/从零开始搭建自己Web/个人博客/前端",
+    "07编程语言/Python/Django/从零开始搭建自己Web/个人博客",
+    "07编程语言/Web/vue/插件",
+    "99publish/acm/数据结构/题解",
+    "99publish/acm/math/题解",
+    "99publish/acm/图论/算法学习以及模板"
+  ]
+}
