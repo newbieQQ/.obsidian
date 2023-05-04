@@ -1,0 +1,53 @@
+/* 添加动态彩虹色下划线 */
+.cm-header-1::after{
+  content: "";
+  display: block;
+  height: 3px;
+  margin-top: 5px;
+  position: relative;
+  animation: rainbow 15s linear infinite;
+}
+
+/* 定义彩虹色动画 */
+@keyframes rainbow {
+  0% {
+    background: red;
+    left: 0;
+    right: auto;
+  }
+  14% {
+    background: orange;
+    left: 0;
+    right: auto;
+  }
+  28% {
+    background: yellow;
+    left: 0;
+    right: auto;
+  }
+  42% {
+    background: green;
+    left: 0;
+    right: auto;
+  }
+  56% {
+    background: blue;
+    left: 0;
+    right: auto;
+  }
+  70% {
+    background: indigo;
+    left: 0;
+    right: auto;
+  }
+  84% {
+    background: violet;
+    left: 0;
+    right: auto;
+  }
+  100% {
+    background: red;
+    left: auto;
+    right: 0;
+  }
+}

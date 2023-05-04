@@ -13,18 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01未归档/VscodeVim.md",
+                "file": "99publish/acm/思维题/牛客练习赛104C.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf65c945ca665146",
+            "id": "60b442ab8b04bbc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99publish/acm/思维题/CCPC2022桂林站C题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -72,6 +76,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "138aa1d013ea787f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01未归档/VscodeVim.md",
+                "file": "99publish/acm/思维题/牛客练习赛104C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01未归档/VscodeVim.md",
+                "file": "99publish/acm/思维题/牛客练习赛104C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01未归档/VscodeVim.md"
+                "file": "99publish/acm/思维题/牛客练习赛104C.md"
               }
             }
           },
@@ -180,8 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3ee41650c733cd2",
+  "active": "92f2ff9e7427236a",
   "lastOpenFiles": [
+    "99publish/acm/思维题/CCPC2022桂林站C题.md",
+    "99publish/acm/思维题/牛客练习赛104C.md",
+    "99publish/acm/模板/base.md",
     "01未归档/VscodeVim.md",
     "01未归档/ObsidianVim.md",
     "01未归档/im-select插件.md",
@@ -211,8 +226,6 @@
     "06Linux/ubuntu/换源.md",
     "99publish/acm/QQ专场.md",
     "09wiki/c++/c++文件操作.md",
-    "08考研/01数学/01高等数学/积分.md",
-    "04工具/vscode/vscode.md",
     "00日记/Ubuntu/2022-12-30星期五.docx",
     "d2e665137f8d15aae064c8384cfa028.jpg",
     "b24af84117e78d6dd3ebfc43b91f725.jpg",
